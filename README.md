@@ -12,7 +12,8 @@ The application includes a  landing page showing what i do, my education backgro
 * And you are all done
 
 ## Live server
-* You can view the web live on https://Anthonyocmpo1gi.github.io/portfolio-sdft11/
+* You can view the web live on 
+https://anthonyocmpo1.github.io/phase-0-final-project/
 
 ## Known Bugs
 The application works perfectly well, no bugs.
