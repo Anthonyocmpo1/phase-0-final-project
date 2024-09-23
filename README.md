@@ -24,6 +24,6 @@ HTML, CSS , Fontawesome icons, GIT
 email :: mwauraa634@gmail.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence](https://github.com/Anthonyocmpo1/portfolio-sdft11/blob/master/LICENSE.md)*
 
 Copyright (c) 2024 **Anthony Mwaura**
