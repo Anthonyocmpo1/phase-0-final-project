@@ -18,7 +18,7 @@ The application includes a  landing page showing what i do, my education backgro
 The application works perfectly well, no bugs.
 
 ## Technologies Used
-HTML, CSS , Fontawesome icons, GIT
+HTML, CSS ,  GIT
 
 ## Support and contact details
 email :: mwauraa634@gmail.com
