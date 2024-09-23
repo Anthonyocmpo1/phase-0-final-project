@@ -21,7 +21,7 @@ The application works perfectly well, no bugs.
 HTML, CSS , Fontawesome icons, GIT
 
 ## Support and contact details
-email :: kelvinkipchumba002@gmail.com
+email :: mwauraa634@gmail.com
 
 ### License
 *LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
